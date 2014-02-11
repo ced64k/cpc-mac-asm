@@ -1,0 +1,3 @@
+{
+	"shell_cmd": "pasmo /Users/csi/Documents/amstrad/MyProject/Sources/hellocpc.asm /Users/csi/Documents/amstrad/MyProject/Generated/hellocpc.bin; iDSK /Users/csi/Documents/amstrad/MyProject/Generated/hellocpc.dsk -i /Users/csi/Documents/amstrad/MyProject/Generated/hellocpc.bin -e 8000 -c 8000 -t 1 -f; osascript /Users/csi/Documents/amstrad/MyProject/Scripts/RunArnold.scpt"
+}
