@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/iDSK/!svn/ver/3/src
+END
+getopt_pp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/iDSK/!svn/ver/5/src/getopt_pp.cpp
+END
+endianPPC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/iDSK/!svn/ver/3/src/endianPPC.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/iDSK/!svn/ver/5/src/Makefile.in
+END
+Itoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/iDSK/!svn/ver/3/src/Itoa.h
+END
+BitmapCPC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/iDSK/!svn/ver/3/src/BitmapCPC.cpp
+END
+GestDsk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/iDSK/!svn/ver/5/src/GestDsk.cpp
+END
+getopt_pp.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/iDSK/!svn/ver/5/src/getopt_pp.h
+END
+endianPPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/iDSK/!svn/ver/3/src/endianPPC.h
+END
+BitmapCPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/iDSK/!svn/ver/3/src/BitmapCPC.h
+END
+GestDsk.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/iDSK/!svn/ver/5/src/GestDsk.h
+END
+ViewFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/iDSK/!svn/ver/3/src/ViewFile.cpp
+END
+ViewFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/iDSK/!svn/ver/3/src/ViewFile.h
+END
+Outils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/iDSK/!svn/ver/5/src/Outils.cpp
+END
+Basic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/iDSK/!svn/ver/3/src/Basic.cpp
+END
+Desass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/iDSK/!svn/ver/5/src/Desass.cpp
+END
+Dams.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/iDSK/!svn/ver/5/src/Dams.cpp
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/iDSK/!svn/ver/6/src/Main.cpp
+END
+Outils.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/iDSK/!svn/ver/5/src/Outils.h
+END
+Basic.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/iDSK/!svn/ver/3/src/Basic.h
+END
+Desass.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/iDSK/!svn/ver/3/src/Desass.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/iDSK/!svn/ver/5/src/Makefile.am
+END
+Dams.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/iDSK/!svn/ver/3/src/Dams.h
+END
+Main.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/iDSK/!svn/ver/3/src/Main.h
+END
+Itoa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/iDSK/!svn/ver/3/src/Itoa.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/iDSK/!svn/ver/5/src/Makefile
+END
+MyType.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/iDSK/!svn/ver/3/src/MyType.h
+END

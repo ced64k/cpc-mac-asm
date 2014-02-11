@@ -1,0 +1,434 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"total",
+				"total_minute"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"le",
+				"letter-spacing"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "asm/example.asm",
+			"settings":
+			{
+				"buffer_size": 323,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/cpc.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/csi/Library/Application Support/Sublime Text 3/Packages/User/cpc.sublime-build",
+		"/Users/csi/Documents/amstrad/cpc-mac-asm/example",
+		"/Users/csi/Documents/amstrad/cpc-mac-asm/scripts/cpc.sublime-build",
+		"/Users/csi/Documents/amstrad/MyProject/myproject.sublime-workspace",
+		"/Users/csi/Documents/amstrad/MyProject/sources/test.asm",
+		"/Users/csi/Documents/amstrad/MyProject/sources/example.asm",
+		"/Users/csi/Documents/amstrad/MyProject/Sources/hellocpc.asm",
+		"/Users/csi/Library/Application Support/Sublime Text 3/Packages/z80asm/build",
+		"/Users/csi/Sites/Brussels_Airlines/website/aspx_back_server/contact-us/request-for-invoice.aspx",
+		"/Users/csi/Sites/Brussels_Airlines/website/BAIR_reset-password.html",
+		"/Users/csi/Desktop/IDEArchive/MyProject/Scripts/InsertDSK.ahk",
+		"/Users/csi/Desktop/pasmo-0.5.4.beta2/alocal.asm",
+		"/Users/csi/Desktop/amstrad.html",
+		"/Users/csi/Sites/Brussels_Airlines/website/_js/ibe/amstrad.html",
+		"/Users/csi/Sites/Brussels_Airlines/website/_js/common.js",
+		"/Users/csi/Sites/Brussels_Airlines/website/BAIR_myprofile_copy.html",
+		"/Users/csi/Sites/Brussels_Airlines/website/BAIR_promotions_copy.html",
+		"/Users/csi/Sites/Brussels_Airlines/website/BAIR_Splashpage.html",
+		"/Users/csi/Sites/Brussels_Airlines/website/_css/ie9.css",
+		"/Users/csi/Sites/Brussels_Airlines/website/_css/ie8.css",
+		"/Users/csi/Sites/Brussels_Airlines/website/BAIR_Promotions.html",
+		"/Users/csi/Sites/Brussels_Airlines/website/_test.html",
+		"/Users/csi/Sites/Brussels_Airlines/website/BAIR_African_corner.html",
+		"/Users/csi/Sites/bnp/cortex/css/emmHeader.css",
+		"/Users/csi/Documents/amstrad/SDCard_HxC_Floppy_Emulator_Manager/Amstrad_CPC/HXCSDFE.CFG",
+		"/Users/csi/Sites/Brussels_Airlines/website/untitled",
+		"/Users/csi/Sites/Brussels_Airlines/website/BAIR_Home.html",
+		"/Users/csi/Sites/Brussels_Airlines/website/_css/base.css",
+		"/Users/csi/Sites/Brussels_Airlines/website/_js/ibe/Vibe.js",
+		"/Users/csi/Sites/Brussels_Airlines/website/BAIR_arrivals-departures_copy.html",
+		"/Users/csi/Sites/Brussels_Airlines/website/BAIR_destination.html",
+		"/Users/csi/Sites/Brussels_Airlines/website/_css/v3.1.css",
+		"/Users/csi/Sites/Brussels_Airlines/website/BAIR_Timetable.html",
+		"/Users/csi/Sites/Brussels_Airlines/website/BAIR_List_by_Destination_Country.html",
+		"/Users/csi/Sites/Brussels_Airlines/website/_js/plugins.js",
+		"/Users/csi/Sites/Brussels_Airlines/website/BAIR_home.html",
+		"/Users/csi/Sites/Brussels_Airlines/website/BAIR_Home_copy_v3.html",
+		"/Users/csi/Sites/Brussels_Airlines/website/shadowbox-test.html",
+		"/Users/csi/Sites/Brussels_Airlines/website/test.html",
+		"/Users/csi/Sites/Dempsey/EnSmartareDag/trunk/_html/_js/bootstrap-slider-mod.js",
+		"/Users/csi/Sites/Dempsey/EnSmartareDag/trunk/_html/category.html",
+		"/Users/csi/Sites/Dempsey/EnSmartareDag/trunk/_html/_elements.html",
+		"/Users/csi/Sites/Dempsey/EnSmartareDag/trunk/_html/fa-mer-gjort.html",
+		"/Users/csi/Sites/Dempsey/EnSmartareDag/trunk/_html/faq.html",
+		"/Users/csi/Sites/Dempsey/EnSmartareDag/trunk/_html/hitta-kollegor.html",
+		"/Users/csi/Sites/Dempsey/EnSmartareDag/trunk/_html/jobba-pa-distans.html",
+		"/Users/csi/Sites/Dempsey/EnSmartareDag/trunk/_html/smartare-moten .html",
+		"/Users/csi/Sites/Dempsey/EnSmartareDag/trunk/_html/index.html",
+		"/Users/csi/Sites/Dempsey/EnSmartareDag/trunk/_html/_css/main.css",
+		"/Users/csi/Sites/Dempsey/EnSmartareDag/trunk/_html/_js/respond.min.js",
+		"/Users/csi/Sites/dvv/site/js/data.json",
+		"/Users/csi/Desktop/wheezy-nv-install.sh",
+		"/Users/csi/Library/Caches/Cleanup At Startup/Transmit/A1D15D17-A63C-439D-A58D-625F1C096319/order.html",
+		"/Users/csi/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"BB75",
+			"vibe_tab",
+			"flightt",
+			"											<td>\n												\n											</td>",
+			"<strong>€",
+			"http://b2c.bair2013-static.emakina.dev/_img/ico_info.png",
+			"All taxes & charges included",
+			"vibe_tabs",
+			"custom",
+			"find_flight_ty",
+			"find_fl",
+			"twitter",
+			"vibe_tabs",
+			"tabs",
+			"flightstab",
+			"twi",
+			"social",
+			"autocomp",
+			"input_fr",
+			"</head",
+			".social",
+			".twitter",
+			"social",
+			"disabled",
+			"selectboxit",
+			"selecboxit",
+			"parent()",
+			"AirportChanged",
+			"contentMain_lblAirportsAllYear",
+			"contentMain_ddlAirportsAllYear",
+			"select_fl",
+			"dd200",
+			"slider",
+			"data-",
+			"button",
+			"personal de",
+			"selectboxit",
+			"selecboxit",
+			"/en_be/Images/",
+			"ico_list_business",
+			"field_inline",
+			"tabs",
+			"form_item",
+			"field",
+			"narrow",
+			"date of birth",
+			"YYY",
+			"contentc",
+			"\"main",
+			"contentc",
+			"/Select the appropriate arrival & departure section checkbox",
+			"contentcon",
+			"worldwide",
+			"contentMain_ddlAirportsAllYear",
+			"upta",
+			"abz",
+			"contentMain_lblAirportsAllYear",
+			"from",
+			"class=\"soci",
+			"class=\"footer",
+			"footer",
+			"contentco",
+			"form_item",
+			"custum_select",
+			"input-from-bg",
+			"\"promotions",
+			"/en_be/Images/",
+			"displayExtra",
+			"/en_be/Images/",
+			"ico_list_business",
+			"base.css",
+			"selectboxit",
+			"ico_list_assistance.png",
+			"/en_be/Images/ico_list_assistance.png",
+			"\"/en_be/Images/",
+			"ServiceIcon",
+			"ico_list_train.png",
+			"/en_be/Images/ico_list_train.png",
+			"_img/ico_take_off.png",
+			"footer",
+			"contentco",
+			"eee",
+			"div id=\"#",
+			"en_be/en",
+			"http://dev.bair/",
+			"(\"#contentMain_pnlPrivateSales\").hide();",
+			"FLX.version = \"1.0.3\";",
+			"selectBoxIt",
+			"var EMAVibe = function(){",
+			"FancyBox - jQuery Plugin",
+			"/en_be/Images/filetcm_290_32478.jpg",
+			"jquery",
+			".js",
+			" id=\"contentMain([^\"]*+)\"",
+			" href=\"/en_be([^\"]*+)\"",
+			" id=\"Header([^\"]*+)\"",
+			" href=\"http://quic([^\"]*+)\"",
+			" href=\"java([^\"]*+)\"",
+			" name=\"ctl00([^\"]*+)\"",
+			" onclick=\"([^\"]*+)\"",
+			" id=\"([^\"]*+)\"",
+			"console.l",
+			"hur m",
+			"timma",
+			"total",
+			"top",
+			"top ",
+			"touchmove: $.proxy(this.mousemove, this),",
+			"this.layout();",
+			"if (this.touchCapable) {",
+			"this.percentage[this.dragged] = percentage;",
+			"\"tooltip",
+			"bottom",
+			"class=\"",
+			"createMarker"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"<strong><em class=\"currency\">€</em>",
+			"<strong><span class=\"currency\">€</span>",
+			"_img/ico_info.png",
+			"_img/",
+			"\"_img/",
+			"",
+			" href=\"#\"",
+			" id=\"#\"",
+			" href=\"#\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "asm/example.asm",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								198
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/z80asm/z80asm.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 91.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "example.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 141.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
