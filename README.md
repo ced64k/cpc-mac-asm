@@ -1,20 +1,20 @@
 CPC Mac ASM
 ===========
 
-Tools to compile Amstrad CPC ASM on Mac OS X
+Tools to compile Amstrad CPC ASM on Mac OS X.
 
 
-# Description
+## Description
 ---
 
 This set of tools contains Pasmo (Z80 compiler), iDSK (dsk manager), Sublime Text build command and AppleScript to run dsk in [Arnold](http://www.bannister.org/software/arnold.htm) emulator.
 
-# Screenshot
+## Screenshot
 ---
 
 ![Screenshot](readme.png)
 
-# Authors
+## Authors
 ---
 
 Pasmo © 2004-2006 Julián Albo.
