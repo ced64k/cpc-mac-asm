@@ -1,3 +1,3 @@
 {
-	"shell_cmd": "pasmo $project_path/asm/$file_name $project_path/generated/$file_base_name.bin; iDSK $project_path/generated/$file_base_name.dsk -n; iDSK $project_path/generated/$file_base_name.dsk -i $project_path/generated/$file_base_name.bin -e 8000 -c 8000 -t 1 -f; osascript $project_path/scripts/RunArnold.scpt $project_path/generated/$file_base_name.dsk $file_base_name"
+	"shell_cmd": "pasmo $project_path/asm/$file_name $project_path/generated/$file_base_name.bin; iDSK $project_path/generated/$file_base_name.dsk -n; iDSK $project_path/generated/$file_base_name.dsk -i $project_path/generated/$file_base_name.bin -e 5000 -c 5000 -t 1 -f; osascript $project_path/scripts/RunArnold.scpt $project_path/generated/$file_base_name.dsk $file_base_name"
 }
